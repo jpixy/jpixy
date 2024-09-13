@@ -2,7 +2,7 @@
 
 - Email Address: <johnnydavinci@gmail.com>, <johnnydavinci@yeah.net>
 - Github : <https://github.com/jpixy>
-- Website : <https://jpixy.github.io/>
+- Website : <https://blog.jpixy.com/>
 
 ----------
 
