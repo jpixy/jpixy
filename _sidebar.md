@@ -2,12 +2,15 @@
 
 - Home
   - [Welcome](README.md)
-- My Platform
-  - [GitHub](https://github.com/jpixy)
-  - [Gitee](https://gitee.com/jpixy)
-  - [WeChat Official Account](images/qrcode_for_gh_ebcb1f244ab9_344.jpg)
+- Articles
+  - [C/CPP]
+    - [纯C实现常见的数据结构](/articles/ccpp/basic_data_struct.md)
+  - [Networking]
+    - [如何实现可靠的UDP](/articles/networking/stable_udp.md)
 - About Me
   - [Resume](/resume/Johnny_Resume_eng.md)
-  - [Snippets of Daily Life](/snippets_of_daily/)
+  - [GitHub](https://github.com/jpixy)
+  - [Gitee](https://gitee.com/jpixy)
+  - [WeChat Channel](/wechat_official_account.md)
 
 <!-- 以下略 -->

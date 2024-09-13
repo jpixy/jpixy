@@ -1,3 +1,9 @@
-# Hi, there. Welcome!
+# Hi, there. Welcome
 
-> This is Johnny. Here we go!
+This is Johnny. Here we go!
+
+Please click the left menu to get what you want.
+
+Enjoy it.
+
+Thanks.
