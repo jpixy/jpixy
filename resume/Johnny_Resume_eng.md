@@ -1,5 +1,7 @@
 # Johnny
 
+-------------
+
 ## Summary
 
 As a Senior Software Engineer at IBM China Development Lab. Engaged in IT work since 2011, with extensive front-line R&D experience and the capability to design and implement architectures.
