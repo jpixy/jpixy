@@ -52,11 +52,3 @@ As a Senior Software Engineer at IBM China Development Lab. Engaged in IT work s
 
 - _2016/03 - 2020/07_ : **Fudan University** --- _**(TOP 50 World University Rankings)**_,  Software Engineering,Master of Engineering.
 - _2007/09 - 2011/07_ : **East China University of Science and Technology**, Computer Science and Technology, Bachelor of Engineering.
-
-<style>
-h1 { font: normal bold 18px/18px "Courier New", serif; !important; }
-h2 { font: normal bold 16px/18px "Courier New", serif; !important; }
-h3 { font: normal bold 14px/18px "Courier New", serif; !important; }
-p { font: normal bold 13px/18px "Courier New", serif; !important; }
-ul { font: normal normal 12px/18px "Courier New", serif; !important; }
-</style>

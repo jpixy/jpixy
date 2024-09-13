@@ -4,7 +4,7 @@
 
   * [GitHub](https://github.com/jpixy)
   * [Gitee](https://gitee.com/jpixy)
-  * [微信公众号](images/qrcode_for_gh_ebcb1f244ab9_344.jpg)
+  * ![微信公众号](images/qrcode_for_gh_ebcb1f244ab9_344.jpg)
 
 * About Me
   * [Resume](resume/Johnny_Resume_eng.md)
