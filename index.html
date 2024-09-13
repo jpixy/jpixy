@@ -41,12 +41,12 @@
       },
       // 页脚
       footer: {
-        copy: '<span id="sitetime"></span> <br> <span>Copyright &copy; 2024 &nbsp - Now &nbsp</span>',
+        copy: '<span id="sitetime"></span> <br> <span>Total click: <span id="busuanzi_value_site_pv"></span> times | Total visitor: <span id="busuanzi_value_site_uv"></span> people</span> <br> <span>Copyright &copy; 2024 &nbsp - Now &nbsp</span>',
         auth: ' <strong><a href="https://blog.jpixy.com" target="_blank">Hi, this is Johnny</a></strong>',
         pre: '<hr/>',
         style: 'font-size: 18px; text-align: center;',
       },
-      loadNavbar: true,
+      // loadNavbar: true,
       // // 搜索框的完整配置参数
       // search: {
       //   maxAge: 86400000, // 过期时间，单位毫秒，默认一天
@@ -98,7 +98,7 @@
       var diffHours = Math.floor((diff - (diffYears * 365 + diffDays) * days) / hours);
       var diffMinutes = Math.floor((diff - (diffYears * 365 + diffDays) * days - diffHours * hours) / minutes);
       var diffSeconds = Math.floor((diff - (diffYears * 365 + diffDays) * days - diffHours * hours - diffMinutes * minutes) / seconds);
-      document.getElementById("sitetime").innerHTML = " 本网站已运行 " + diffYears + " 年 " + diffDays + " 天 " + diffHours + " 小时 " + diffMinutes + " 分钟 " + diffSeconds + " 秒 ";
+      document.getElementById("sitetime").innerHTML = " This Website " + diffYears + " years " + diffDays + " days " + diffHours + " hours " + diffMinutes + " mins " + diffSeconds + " secs ";
     }
     siteTime();
   </script>
