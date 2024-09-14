@@ -1,8 +1,6 @@
 <!-- _navbar.md 上面的导航栏  -->
 
-* Home
-
-  * [Welcome](/README.md)
+* [Home](/README.md)
 
 * My Platform
 
