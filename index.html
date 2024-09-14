@@ -53,7 +53,8 @@
       },
       // 页脚
       footer: {
-        copy: '<span id="sitetime"></span> <br> <span>Total click: <span id="busuanzi_value_site_pv"></span> times | Total visitors: <span id="busuanzi_value_site_uv"></span> people</span> <br> <span>Copyright &copy; 2024 - Now &nbsp</span>',
+        // copy: '<span id="sitetime"></span> <br> <span>Total click: <span id="busuanzi_value_site_pv"></span> times | Total visitors: <span id="busuanzi_value_site_uv"></span> people</span> <br> <span>Copyright &copy; 2024 - Now &nbsp</span>',
+        copy: '<span id="sitetime"></span> <br> <span>Copyright &copy; 2024 - Now &nbsp</span>',
         auth: ' <strong><a href="https://blog.jpixy.com" target="_blank">Hi, this is Johnny</a></strong>',
         pre: '<hr/>',
         style: 'text-align: center;',
@@ -79,7 +80,7 @@
   <script src="//cdn.jsdelivr.net/npm/docsify-sidebar-collapse/dist/docsify-sidebar-collapse.min.js"></script>
   <script src="//cdn.jsdelivr.net/npm/docsify-copy-code/dist/docsify-copy-code.min.js"></script>
   <!-- 访问量统计 -->
-  <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
+  <!-- <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script> -->
   <!-- 运行时间统计 -->
   <script language=javascript>
     function siteTime() {
@@ -104,7 +105,7 @@
       minutes - 0-59之间的整数，做为date对象的分钟数
       seconds - 0-59之间的整数，做为date对象的秒数
       microseconds - 0-999之间的整数，做为date对象的毫秒数 */
-      var t1 = Date.UTC(2020, 02, 10, 00, 00, 00); //北京时间2020-02-10 00:00:00
+      var t1 = Date.UTC(2024, 09, 10, 00, 00, 00); //北京时间2024-09-10 00:00:00
       var t2 = Date.UTC(todayYear, todayMonth, todayDate, todayHour, todayMinute, todaySecond);
       var diff = t2 - t1;
       var diffYears = Math.floor(diff / years);
