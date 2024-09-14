@@ -5,6 +5,7 @@
 - Articles
   - [C/CPP]
     - [纯C实现常见的数据结构](/articles/ccpp/basic_data_struct.md)
+    - [IO多路复用](/articles/ccpp/io_multiplexing_tech.md)
   - [Networking]
     - [如何实现可靠的UDP](/articles/networking/stable_udp.md)
     - [Ethernet相关](/articles/networking/ethernet.md)
