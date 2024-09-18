@@ -46,5 +46,5 @@ As a Senior Software Engineer at IBM China Development Lab. Engaged in IT work s
 
 ## Education
 
-- **Fudan University** --- _**(TOP 50 World University Rankings)**_,  Software Engineering,Master of Engineering.
+- **Fudan University** _**(TOP 50 World University Rankings)**_, Software Engineering, Master of Engineering.
 - **East China University of Science and Technology**, Computer Science and Technology, Bachelor of Engineering.
